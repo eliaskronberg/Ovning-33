@@ -14,6 +14,7 @@ namespace Github_test
             Console.WriteLine("nämen hallå!");
             Console.ReadLine();
             Klassen klass = new Klassen();
+            string namn = "Kalle";
         }
     }
 }
