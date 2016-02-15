@@ -12,10 +12,12 @@ namespace Github_test
         {
             Console.WriteLine("hello world" );
             Console.WriteLine("nämen hallå!");
-            Console.WriteLine("GIT är Gut");
-            Console.ReadLine();
+            Console.WriteLine("GIT är Gut som en guzz");
             Klassen klass = new Klassen();
-            string namn = "Kalle";
+            Console.WriteLine("skriv något som du inte vill äta");
+            string banan = Console.ReadLine();
+            string namn = "Marcus Vall Enberg";
+            Console.WriteLine(namn + " brukar äta en " + banan);
         }
     }
 }
