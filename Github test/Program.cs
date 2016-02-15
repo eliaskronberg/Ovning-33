@@ -15,6 +15,7 @@ namespace Github_test
             Console.WriteLine("GIT är Gut");
             Console.ReadLine();
             Klassen klass = new Klassen();
+            string namn = "Kalle";
         }
     }
 }
