@@ -13,6 +13,7 @@ namespace Github_test
             Console.WriteLine("hello world" );
             Console.WriteLine("nämen hallå!");
             Console.ReadLine();
+            Klassen klass = new Klassen();
         }
     }
 }
