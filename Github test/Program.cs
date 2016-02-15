@@ -12,6 +12,7 @@ namespace Github_test
         {
             Console.WriteLine("hello world" );
             Console.WriteLine("nämen hallå!");
+            Console.WriteLine("GIT är Gut");
             Console.ReadLine();
             Klassen klass = new Klassen();
         }
